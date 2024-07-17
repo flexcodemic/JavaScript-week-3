@@ -1,1 +1,1 @@
-# JavaScript-week-3
+# JavaScript Assigment Week 3
